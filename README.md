@@ -17,5 +17,5 @@
 4. Go to video-watch-time-next and run:
    ```bash
    $ yarn
-   & yarn dev
+   $ yarn dev
    ```
