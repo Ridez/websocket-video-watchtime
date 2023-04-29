@@ -1,0 +1,6 @@
+[submodule "video-watchtime-nest"]
+	path = video-watchtime-nest
+	url = https://github.com/Ridez/video-watchtime-nest.git
+[submodule "video-watchtime-next"]
+	path = video-watchtime-next
+	url = https://github.com/Ridez/video-watchtime-next.git
