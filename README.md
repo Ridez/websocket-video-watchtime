@@ -14,3 +14,8 @@
    $ git submodule update --init
    $ docker-compose -f docker-compose.yml up
    ```
+4. Go to video-watch-time-next and run:
+   ```bash
+   $ yarn
+   & yarn dev
+   ```
